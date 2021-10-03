@@ -1,0 +1,13 @@
+/*
+./pexels-katho-mutodo-8434791.jpg
+./pexels-andrea-piacquadio-3777931.jpg
+*/
+
+.avatar.proportioned {
+    width: 300px; height: 300px;
+}
+
+.avatar.distorted {
+    width: 200px; height: 400px;
+}
+
